@@ -1,0 +1,6 @@
+C:\Users\AsusPc\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\AsusPc\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\AsusPc\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\AsusPc\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\AsusPc\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\AsusPc\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
